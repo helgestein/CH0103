@@ -2,7 +2,7 @@
 
 # Kursname: Programmierung Data Science
 
-Prof. Dr.-Ing. Helge S. Stein (2023)
+Prof. Dr.-Ing. Helge S. Stein (2024)
 
 ## Einführung in den Kurs und Software-Basis
 
